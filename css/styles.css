@@ -1,1 +1,4 @@
-h2 {color: blue}
+.brown .active a,
+.brown .active a:hover {
+    background-color: red;
+}
