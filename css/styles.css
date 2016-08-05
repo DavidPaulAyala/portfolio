@@ -1,4 +1,5 @@
-.brown .active a,
-.brown .active a:hover {
-    background-color: red;
+img.displayed {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
