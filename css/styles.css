@@ -1,5 +1,12 @@
-img.displayed {
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
+body {
+  background-color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none
 }
